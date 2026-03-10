@@ -50,5 +50,3 @@ Esta versión es similar a la anterior, pero se ejecuta desde un pequeño servid
 ---
 
 En ambos casos la idea es practicar manejo básico del DOM y eventos en JavaScript, y en la segunda también ver un servidor simple en Node.js.
-
-¡Eso es todo! Usa estas activides como referencia rápida para familiarizarte con HTML, JavaScript y Express.
